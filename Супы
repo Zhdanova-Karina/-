@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+   <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -71,7 +71,7 @@
                         </div>
                         <div class="FoodItemPortion">
                             <div class="PortionGramm">250 гр.</div>
-<a href="https://t.me/greenstory_bot/shop?startapp=tlprt544j">
+<a href="https://eda.yandex.ru/barnaul/r/grin">
     <div class="PortionPrice">Заказать</div>
                             </a>
                             </div>
@@ -106,17 +106,17 @@
                         </div>
                         <div class="FoodItemPortion">
                             <div class="PortionGramm">250 гр.</div>
-                           <a href="https://t.me/greenstory_bot/shop?startapp=tlprt544j">
+                           <a href="https://eda.yandex.ru/barnaul/r/grin">
     <div class="PortionPrice">Заказать</div>
                             </a>
                         </div>
                     </div>
                 </div>
+                          <a href="https://eda.yandex.ru/barnaul/r/grin" target="_blank" title="Написать в Яндекс" rel="noopener noreferrer"><div class="yandex-button"><i class="fa fa-yandex"></i></div></a>
             </div>
                         </section>
 
 
-                        <a href="https://t.me/greenstory_bot/shop?startapp=tlprt544j" target="_blank" title="Написать в Telegram" rel="noopener noreferrer"><div class="telegram-button"><i class="fa fa-telegram"></i></div></a>
 </body>
 
 </html>
